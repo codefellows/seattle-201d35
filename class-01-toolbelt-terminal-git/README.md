@@ -48,7 +48,7 @@ This is the welcome and introduction to Code Fellows. Students will meet the cam
 <a id="academic"></a>
 ## Overview of our Toolbelts
 
-TThe instructor will give an academic orientation to the course that features an examination of the tooling we will be using. In addition, the instructor will give an overview of the topics to be covered in this course and how those topics fit into the overall academic program at Code Fellows.
+The instructor will give an academic orientation to the course that features an examination of the tooling we will be using. In addition, the instructor will give an overview of the topics to be covered in this course and how those topics fit into the overall academic program at Code Fellows.
 
 [-top-](#top)
 
