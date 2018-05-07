@@ -19,7 +19,7 @@
 
 - Sam will do 15-minute one-on-one meetings with each student during Weeks 2 and 4 of the course.
 - The goal of the meetings is to provide an opportunity for individual feedback and for students to ask any questions they may have.
-- You can book your meeting at [this link](https://sam-201d32.youcanbook.me); be sure to make a note of your meeting time as you will not get an email reminder or otherwise be able to go back into the system and access your time slot.
+- Sam will send out a booking link in Slack later today.
 - The meetings will be done in one of the little conference rooms in "The Catacombs"; just head over at your time.
 
 ## Readings
