@@ -123,3 +123,11 @@ renderAllCats();
 // Now we need to call our functions: the one for the header row, and the one for generating the individual cat rows
 
 // Don't forget in the Chrome dev tools to observe the difference between the HTML shown in the Sources tab versus the Elements tab!
+
+
+function annoy() {
+  alert('PLEASE DO NOT LEAVE OUR SITE!!!!');
+  annoy();
+}
+
+document.getElementById('annoy').addEventListener('mouseover', annoy);
