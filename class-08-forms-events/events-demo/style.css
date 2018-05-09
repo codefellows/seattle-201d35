@@ -1,0 +1,36 @@
+*{
+    color: white;
+}
+
+body {
+    background: black;
+    text-align: center;
+}
+
+#sadie {
+    color:black;
+}
+
+.red {
+   color:red; 
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: lightskyblue;
+}
+
+.purple {
+    color: purple;
+}
+
+.pink {
+    color: hotpink;
+}
