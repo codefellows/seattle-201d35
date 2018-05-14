@@ -3,6 +3,8 @@
 <a id="top"></a>
 ## Today's Plan: Week 3, Monday Lecture
 
+*Note: Today at 1:00pm in the event space there will be an instructor panel featuring the instructors of our 401 courses. The panel gives you an opportunity to meet those instructors and learn more about our 401 courses. If you're thinking of going through a 401 course you should take advantage of this opportunity to learn more.*
+
 - Q&A?
 - Anyone want to show their project from last week?
 - Continuation of JS Debugging from Friday
