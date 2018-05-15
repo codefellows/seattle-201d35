@@ -1,0 +1,17 @@
+
+body {
+    width: 100%;
+    margin: 0px auto
+}
+
+div {
+    width: 100%;
+    border: red dotted 3px;
+}
+
+img {
+    width: 200px;
+    padding: 50px;
+    border: red dotted 3px;
+    
+}
