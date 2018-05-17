@@ -30,10 +30,6 @@ Your index.html is an order form for customers: it will have an order form for B
 
   1. It should display all items currently in the order with a picture of the item.
   1. Each order should have a button "Delete this item" that will remove that order from the DOM (and array of ordered items) when it is clicked.
-  1. Text inputs for each of: name, street, city, state, ZIP code, and phone number
-  1. An input of `type="number"` to enter a 161.digit credit card number
-  1. A "Process Order" button to submit the order. When the order is submitted, all of the input fields should be cleared
-  1. Display an animated confirmation message using CSS and JS
 
 
 ## Process
