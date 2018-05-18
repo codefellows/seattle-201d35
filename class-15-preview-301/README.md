@@ -25,6 +25,10 @@
 
 - Lab time. You will have an assignment to complete as a team, and then you can begin your project planning.
 
+**1:30**
+
+- JS 401 will be doing their midpoint presentations.
+
 **Announcements**
 
   - Reminder: weekly surveys will go out to students today. As always, thank you for your feedback!
