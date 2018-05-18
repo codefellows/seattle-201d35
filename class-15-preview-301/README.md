@@ -24,6 +24,7 @@
 **1:00-???:** 
 
 - Lab time. You will have an assignment to complete as a team, and then you can begin your project planning.
+- Give Demi lots of pets.
 
 **1:30**
 
